@@ -71,7 +71,7 @@ class ApiValidaController extends Controller
         return response()->json([
             'success' => false,
             'message' => 'No se encontró la entrada.'
-        ]);
+        ], 400);
     } else {
         try {
             // Verificar si la boleta ya fue leída
@@ -81,7 +81,7 @@ class ApiValidaController extends Controller
                 return response()->json([
                     'success' => false,
                     'message' => 'La boleta ya fue leída.'
-                ]);
+                ], 401);
             }
 
             // Actualizar el campo "check" a true

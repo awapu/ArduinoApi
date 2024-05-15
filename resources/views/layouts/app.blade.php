@@ -2,7 +2,7 @@
 <html>
 <head>
    <!-- <meta http-equiv="refresh" content="5"> -->
-   <meta http-equiv="refresh" content="5" />
+   <meta http-equiv="refresh" content="3" />
     <meta charset="UTF-8">
     <meta name="csrf-token" content="{{ csrf_token() }}"/>
     <title>@yield('title') | {{ config('app.name') }}</title>

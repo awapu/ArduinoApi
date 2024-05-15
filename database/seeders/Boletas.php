@@ -15,103 +15,103 @@ class Boletas extends Seeder
     {
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001001',
+            'Nboleta'    => '00001001',
             'Localidad'    => 'General',
         ]);
 
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001002',
+            'Nboleta'    => '00001002',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001003',
+            'Nboleta'    => '00001003',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001004',
+            'Nboleta'    => '00001004',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001005',
+            'Nboleta'    => '00001005',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001006',
+            'Nboleta'    => '00001006',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001007',
+            'Nboleta'    => '00001007',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001008',
+            'Nboleta'    => '00001008',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001009',
+            'Nboleta'    => '00001009',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001010',
+            'Nboleta'    => '00001010',
             'Localidad'    => 'General',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001011',
+            'Nboleta'    => '00001011',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001012',
+            'Nboleta'    => '00001012',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001013',
+            'Nboleta'    => '00001013',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001014',
+            'Nboleta'    => '00001014',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001015',
+            'Nboleta'    => '00001015',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001016',
+            'Nboleta'    => '00001016',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001017',
+            'Nboleta'    => '00001017',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001018',
+            'Nboleta'    => '00001018',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001019',
+            'Nboleta'    => '00001019',
             'Localidad'    => 'VIP',
         ]);
         Entradas::create([
             'Evento'    => "Sustentacion Arduino en clases",
-            'Nboleta'    => '000001020',
+            'Nboleta'    => '00001020',
             'Localidad'    => 'VIP',
         ]);
     }
